@@ -4,7 +4,7 @@ This project is a simple recipe organizer built with Kotlin. It allows users to 
 
 The purpose of this software is to demonstrate basic Kotlin syntax and features such as variable declaration, functions, control flow, and data structures. The code is structured to reflect clean, idiomatic Kotlin programming practices.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/puiZFCAgvS0)
 
 # Development Environment
 

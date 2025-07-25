@@ -1,0 +1,22 @@
+Recipe: Saint Water
+Ingredients:
+- Water: 5 ml
+- Salt: .3 spoon
+Steps:
+1. Get water from whatever
+2. put some salt
+3. Sell it as a great water
+Status: Completed
+========================================
+
+Recipe: ORange Juice
+Ingredients:
+- Orange: 1
+- 1 l: water
+Steps:
+1. Put water
+2. cut the orange
+3. mixed them together
+Status: Completed
+========================================
+
